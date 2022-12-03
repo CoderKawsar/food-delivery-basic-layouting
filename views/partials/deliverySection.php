@@ -5,7 +5,7 @@
         <p class="text-[#676767] text-lg mb-12 pr-36">
         At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos 
         </p>
-        <button class="text-lg px-10 py-4 border text-[#F86061] border-[#F86061] font-medium rounded-xl mr-6">Explore Now</button>
+        <button class="text-lg px-10 py-4 border text-[#F86061] border-[#F86061] font-medium rounded-xl mr-6 hover:bg-[#F86061] hover:text-white">Explore Now</button>
     </div>
     <div class="w-6/12">
         <img class="w-full" src="assets/img/cheff.png" alt="">

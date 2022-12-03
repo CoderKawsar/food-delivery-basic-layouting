@@ -9,7 +9,7 @@
         </h1>
         <p class="mt-5 text-[#676767] text-lg">Grocen atssures fresh grocery every morning to your family without getting out in this pandemic.</p>
         <div class="mt-14">
-            <button class="text-lg px-10 py-4 bg-[#F86061] font-medium text-white rounded-xl mr-6">Order Now</button>
+            <button class="text-lg px-10 py-4 bg-[#F86061] font-medium text-white hover:bg-gray-400 border hover:border rounded-xl mr-6">Order Now</button>
             <button class="text-lg font-medium text-[#363636]"><i class="fa-solid fa-play text-[#FDC55E] p-6 shadow rounded-full mr-4"></i> Order Process</button>
         </div>
     </div>

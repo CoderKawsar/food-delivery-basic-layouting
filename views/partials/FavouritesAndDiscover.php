@@ -8,6 +8,6 @@
         <p class="text-[#676767] text-lg mb-12">
         At vero eos et accusamus et iusto odio dignissimos ducimus blanditiis praesen voluptatum deleniti.
         </p>
-        <button class="text-lg px-10 py-4 bg-[#F86061] font-medium text-white rounded-xl mr-6">Explore Now</button>
+        <button class="text-lg px-10 py-4 bg-[#F86061] font-medium text-white rounded-xl mr-6 hover:bg-gray-400 border hover:border">Explore Now</button>
     </div>
 </section>
